@@ -12,7 +12,7 @@ competitiveness, and the evolving importance of qualifying performance.
 - **Notebook 05 – Season-Level Competitiveness**
   - Quantitative metrics of dominance and competitive balance across seasons
 
-- **Notebook 09 – Qualifying Importance Over Time**
+- **Notebook 06 – Qualifying Importance Over Time**
   - Statistical analysis of the relationship between grid position and finishing
     position across different Formula 1 eras
 
